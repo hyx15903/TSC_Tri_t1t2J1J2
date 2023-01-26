@@ -1,13 +1,13 @@
-# Topological chiral and nematic superconductivity by doping triangular Mott insulators
+# Quantum Phase Diagram and Spontaneously Emergent Topological Chiral Superconductivity in Doped Triangular-Lattice Mott Insulators
 
 # Introduction
-DMRG code illustrations, simulation data of the t-J-$J_{\chi }$ model on a triangular lattice.
+DMRG code illustrations, simulation data of the extended t-J model on a triangular lattice.
 
 # Reference
-Published: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031009
+Published: https://arxiv.org/abs/2209.00833
 
-ITensor: https://itensor.org/
 
 # Contact
 [Yixuan Huang] (yixuan.huang@csun.edu)
+[Shoushu Gong] (shoushu.gong@gmail.com)
 [Donna Sheng] (donna.sheng1@csun.edu)
