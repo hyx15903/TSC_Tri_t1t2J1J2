@@ -1,7 +1,7 @@
 # Quantum Phase Diagram and Spontaneously Emergent Topological Chiral Superconductivity in Doped Triangular-Lattice Mott Insulators
 
 # Introduction
-DMRG code illustrations, simulation data of the extended t-J model on a triangular lattice, which will be available after the paper is accepted.
+DMRG code illustrations, simulation data of the extended t-J model on a triangular lattice.
 
 # Reference
 Published: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.136003 
