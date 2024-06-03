@@ -9,6 +9,6 @@ https://arxiv.org/abs/2209.00833
 
 
 # Contact
-[Yixuan Huang] (yixuan.huang@csun.edu)
+[Yixuan Huang] (yixuan.huang@riken.jp)
 [Shoushu Gong] (shoushu.gong@gmail.com)
 [Donna Sheng] (donna.sheng1@csun.edu)
