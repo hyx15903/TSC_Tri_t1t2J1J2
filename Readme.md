@@ -7,6 +7,7 @@ DMRG code illustrations, simulation data of the extended t-J model on a triangul
 Published: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.136003 
 https://arxiv.org/abs/2209.00833
 
+The research activity for obtaining these data and DMRG code is supported by the U.S. Department of Energy, Office of Basic Energy Sciences under Grant No. DE-FG02-06ER46305.
 
 # Contact
 [Yixuan Huang] (yixuan.huang@riken.jp)
