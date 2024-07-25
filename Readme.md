@@ -5,6 +5,7 @@ DMRG code illustrations, simulation data of the extended t-J model on a triangul
 
 # Reference
 Published: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.136003 
+
 https://arxiv.org/abs/2209.00833
 
 
